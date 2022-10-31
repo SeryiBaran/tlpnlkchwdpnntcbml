@@ -1,8 +1,16 @@
 {
   "name": "too-long-package-name-tlpnlkchwdpnntcbml",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "type": "module",
-  "keywords": ["long", "cat", "bat", "mouse", "lol", "cheburek", "hello-world"]
+  "keywords": [
+    "long",
+    "cat",
+    "bat",
+    "mouse",
+    "lol",
+    "cheburek",
+    "hello-world"
+  ]
 }
