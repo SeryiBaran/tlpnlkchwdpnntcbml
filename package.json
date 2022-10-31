@@ -4,5 +4,5 @@
   "main": "index.js",
   "license": "MIT",
   "type": "module",
-  "keywords": ['long', 'cat', 'bat', 'mouse', 'lol', 'cheburek', 'hello-world']
+  "keywords": ["long", "cat", "bat", "mouse", "lol", "cheburek", "hello-world"]
 }
