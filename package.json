@@ -3,5 +3,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "keywords": ['long', 'cat', 'bat', 'mouse', 'lol', 'cheburek', 'hello-world']
 }
